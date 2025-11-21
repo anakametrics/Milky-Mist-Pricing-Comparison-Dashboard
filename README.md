@@ -35,7 +35,9 @@ MRP column properly treated as numerical
 Clear price variation across product categories.
 
 
-📊4. Dashboard Features
+📊4. Dashboard Overview - [https://github.com/anakametrics/Milky-Mist-Pricing-Comparison-Dashboard/blob/main/Dashboard%20ss.png]
+
+Dashboard Features
 | Feature                      | Description                                                 |
 | ---------------------------- | ----------------------------------------------------------- |
 | **KPI Cards**                | Avg MRP, Competitor Avg MRP, Premium %, Highest/Lowest SKUs |
